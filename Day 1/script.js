@@ -1,18 +1,10 @@
-const run = ['kgf','ed','erdf','455']
+// variables 
 
-const result = run.map((num)=> {
-     +num + '1'
-})
+let num = [1,2,3,4,5,6]
+const name = 'SAURABH'
 
-// console.log(result);
 
-const sum = run.forEach((item)=>{
-    console.log(`${item}  gold`);
-    
-    
-})
-
-console.log(sum);
+// 
 
 
 
